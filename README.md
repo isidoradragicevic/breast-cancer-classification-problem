@@ -2,7 +2,7 @@
 
 This project aims to classify tumors as Malignant (M) or Benign (B) using a variety of machine learning models. The dataset used comes from the popular Breast Cancer Wisconsin (Diagnostic) dataset.
 
-##📊 Exploratory Data Analysis (EDA)
+📊 Exploratory Data Analysis (EDA)
 
    - Basic statistics and structure: `.shape,` `.describe()`, `.dtypes`
 
@@ -19,38 +19,38 @@ This project aims to classify tumors as Malignant (M) or Benign (B) using a vari
 
 Applied the following models on both original and standardized datasets:
 
-	- **Logistic Regression**
+   - Logistic Regression
 
-	- **Linear Discriminant Analysis**
+   - Linear Discriminant Analysis
 
-	- **K-Nearest Neighbors**
+   - K-Nearest Neighbors
 
-	- **Decision Tree**
+   - Decision Tree
 
-	- **Naive Bayes**
+   - Naive Bayes
 
-	- **Support Vector Machine**
+   - Support Vector Machine
 
-	- **AdaBoost**
+   - AdaBoost
 
-	- **Gradient Boosting**
+   - Gradient Boosting
 
-	- **Random Forest**
+   - Random Forest
 
-	- **Extra Trees Classifier**
+   - Extra Trees Classifier
 
 
 Each model was evaluated using:
 
-	- **Accuracy**
+  - Accuracy
 
-	- **Precision**
+   - Precision
 
-	- **Recall**
+   - Recall
 
-	- **F1-score**
+   - F1-score
 
-	- **Balanced Accuracy**
+   - Balanced Accuracy
 
 ## 📈 Results & Comparison
 
@@ -65,8 +65,8 @@ Each model was evaluated using:
 
 The project highlights the importance of:
 
-	- **Using multiple metrics when working with imbalanced datasets**
+   - Using multiple metrics when working with imbalanced datasets
 
-	- **Standardizing data to improve model performance**
+   - Standardizing data to improve model performance
 
-	- **Comparing multiple models to identify the best performer for each evaluation aspect**
+   - Comparing multiple models to identify the best performer for each evaluation aspect
